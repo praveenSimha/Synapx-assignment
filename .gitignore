@@ -18,5 +18,8 @@ ENV/
 .idea/
 
 # Data
+
+# Project files
+PROJECT_EXPLANATION.md
 data/output/
 
