@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # Environment
+# Ignore environment key files containing API secrets and config values
 .env
 .venv/
 env/
