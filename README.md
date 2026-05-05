@@ -1,4 +1,4 @@
-# Synapx - Intelligent Claims Processing Agent
+# Intelligent Claims Processing Agent
 
 AI-powered agent that automates initial validation and routing of insurance claims by extracting data from FNOL PDFs using LLMs and applying business rules.
 
